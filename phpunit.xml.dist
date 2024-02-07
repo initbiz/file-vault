@@ -12,7 +12,7 @@
     verbose="true"
 >
     <testsuites>
-        <testsuite name="Brainstud Test Suite">
+        <testsuite name="Initbiz Test Suite">
             <directory>tests</directory>
         </testsuite>
     </testsuites>

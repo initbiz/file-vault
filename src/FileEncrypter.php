@@ -1,6 +1,6 @@
 <?php
 
-namespace Brainstud\FileVault;
+namespace Initbiz\FileVault;
 
 use Exception;
 use Illuminate\Support\Str;
